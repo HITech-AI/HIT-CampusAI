@@ -1,6 +1,5 @@
-# 核心依赖
-streamlit>=1.32.0          # 前端界面
-faiss-cpu>=1.8.0           # 向量检索（后续用）
-python-dotenv>=1.0.1       # 环境变量（存大模型密钥）
-requests>=2.31.0           # 调用大模型API
-pandas>=2.2.0              # 数据处理（食堂推荐用）
+streamlit
+faiss-cpu
+sentence-transformers
+requests
+python-dotenv
