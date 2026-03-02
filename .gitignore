@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+*.egg-info/
+
+# 环境变量
+.env
+.env.local
+
+# 日志
+*.log
+
+# 临时文件
+*.tmp
+.DS_Store
