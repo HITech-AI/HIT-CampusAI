@@ -24,16 +24,13 @@ def init_knowledge():
 
 knowledge, index = init_knowledge()
 
-# 标题与大赛信息
+# 标题与副标题
 st.title("🏫 HIT-CampusAI 哈工大（深圳）校园AI生活助手")
-st.subheader("哈尔滨工业大学AI智能创新大赛 · 校园创意赛道 | 深圳校区专属版")
+st.subheader("一站式校园 AI 生活助手 · 深圳校区专属版")
 st.divider()
 
 # 侧边栏
 with st.sidebar:
-    st.markdown("### 📅 大赛进度")
-    st.markdown("✅ 2026.03.02 完成报名与知识库构建")
-    st.markdown("🔨 2026.04.15 前 完成中期版本开发")
     st.markdown("### 📌 核心功能")
     st.markdown("- 深圳校区智能问答（核心）")
     st.markdown("- 食堂/商业配套推荐")
@@ -77,5 +74,5 @@ if st.button("提交查询", type="primary"):
 # 底部说明
 st.divider()
 st.markdown("#### 📝 说明")
-st.markdown("- 本项目为哈工大AI大赛参赛作品，单人开发（一人成军）")
-st.markdown("- 中期版本（2026.04.15）将上线完整的智能问答与生活推荐功能")
+st.markdown("- 本项目由哈工大（深圳）师生开源维护，欢迎提交 Issue 与 PR")
+st.markdown("- 知识库持续扩充，覆盖办事流程、图书馆、食堂、交通等校园场景")

@@ -24,7 +24,7 @@ def check_env_variables() -> bool:
 
 def hit_llm_inference(prompt: str) -> str:
     """
-    调用字节豆包（火山方舟）大模型进行推理（适配大赛深圳校区开发场景）
+    调用字节豆包（火山方舟）大模型进行推理（适配校园问答场景）
     :param prompt: 输入给模型的提示词（建议结合校园知识库内容构造）
     :return: 模型的回复文本，异常情况返回对应错误提示
     """
