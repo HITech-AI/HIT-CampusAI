@@ -2,10 +2,10 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
-[![Star History Chart](https://api.star-history.com/svg?repos=Duckweed-yhb/HIT-CampusAI&type=Date)](https://star-history.com/#Duckweed-yhb/HIT-CampusAI&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=HITech-AI/HIT-CampusAI&type=Date)](https://star-history.com/#HITech-AI/HIT-CampusAI&Date)
 
 ## 项目简介
-HIT-CampusAI 是为**哈尔滨工业大学（深圳）** 师生打造的一站式校园AI生活助手，基于哈工大AI开发平台国产多模态大模型构建，聚焦解决**深圳校区**校园生活中的信息查询、事务办理、服务推荐等核心痛点，同时参与「哈尔滨工业大学AI智能创新大赛」校园创意赛道评选。
+HIT-CampusAI 是为**哈尔滨工业大学（深圳）** 师生打造的一站式校园AI生活助手，基于哈工大AI开发平台国产多模态大模型构建，聚焦解决**深圳校区**校园生活中的信息查询、事务办理、服务推荐等核心痛点。
 
 核心目标：用轻量化AI技术提升**深圳校区**师生校园生活效率，降低信息获取成本，同时提供可复用的校园AI应用开发模板，助力高校智慧校园建设。
 
