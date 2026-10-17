@@ -91,6 +91,13 @@ HIT-CampusAI/
 
 当前知识库文件为 `src/knowledge/shenzhen_knowledge.txt`（深圳校区）。把新的校园信息按 `## 章节标题` 追加进去，重启后自动纳入 FAISS 索引参与检索。要新增威海等校区，新建对应校区知识库文件、按同样格式接入即可。章节越多，问答覆盖越广。
 
+## 路线图与贡献
+
+- 项目现状与阶段规划（含知识库构建策略）：见 [ROADMAP.md](ROADMAP.md)
+- 参与贡献 / 补知识库 / 提 PR 流程：见 [CONTRIBUTING.md](CONTRIBUTING.md)
+
+欢迎各校区同学参与建设、补充本校区资料。
+
 ## 协议
 
 MIT License，详见 [LICENSE](LICENSE)。
